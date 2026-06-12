@@ -1,0 +1,33 @@
+# Python virtual environment
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+backend/.env
+
+# Databases
+*.db
+marketing_advisor.db
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+frontend/dist/
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
